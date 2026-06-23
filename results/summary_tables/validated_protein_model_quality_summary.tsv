@@ -1,0 +1,6 @@
+protein	model_source	template_or_source	sequence_identity_percent	coverage_percent	GMQE	ramachandran_favoured	ramachandran_additionally_allowed	ramachandran_generously_allowed	ramachandran_disallowed	final_decision
+ompA	SWISS-MODEL	AlphaFold DB A0A0H3GMF7.1.A	100.00	100.00	0.79	88.5	11.2	0.0	0.3	Accepted with minor caution
+phoE	SWISS-MODEL	X-ray template 1pho.1.A phosphoporin	85.41	94.00	0.87	81.2	16.0	2.1	0.7	Accepted with caution
+yidR	SWISS-MODEL	AlphaFold DB A0A0H3H4U5.1.A DUF3748 protein	100.00	100.00	0.98	91.6	8.4	0.0	0.0	Accepted
+mrkA	SWISS-MODEL	AlphaFold DB A0A0H3GSS7.1.A MrkA fimbrial protein	100.00	100.00	0.89	85.8	13.6	0.0	0.6	Accepted with caution
+ompK36	SWISS-MODEL	X-ray template 7q3t.1.A OmpK36	93.27	91.94	0.85	86.7	12.3	1.0	0.0	Accepted with caution

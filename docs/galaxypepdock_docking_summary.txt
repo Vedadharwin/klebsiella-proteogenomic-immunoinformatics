@@ -1,0 +1,13 @@
+GalaxyPepDock peptide-HLA docking summary
+----------------------------------------
+Total completed docking models: 6
+MHC-I docking models: 3
+MHC-II docking models: 3
+
+Docked peptide-HLA complexes:
+MHC-I | phoE | FVDYKINQL | HLA-A*02:01 | interaction score 227.0 | accuracy 1.000
+MHC-I | ompK36 | KYVDVGATY | HLA-A*24:02 | interaction score 254.0 | accuracy 1.000
+MHC-I | ompA | LSLGVSYRF | HLA-A*24:02 | interaction score 212.0 | accuracy 1.000
+MHC-II | ompK36 | SDNFLQSRANGVATY | HLA-DRB1*01:01 | interaction score 121.0 | accuracy 0.866
+MHC-II | ompA | IEVKGYKEVVTQPAA | HLA-DRB1*04:01 | interaction score 137.0 | accuracy 0.914
+MHC-II | phoE | MMMGFVASTATQAAE | HLA-DRB1*01:01 | interaction score 126.0 | accuracy 0.878

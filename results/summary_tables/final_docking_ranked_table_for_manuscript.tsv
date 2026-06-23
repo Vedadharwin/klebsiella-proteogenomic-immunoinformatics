@@ -1,0 +1,7 @@
+rank	epitope_type	protein	peptide	hla_receptor	receptor_pdb	interaction_similarity_score	estimated_accuracy	tm_score	interpretation
+1	MHC-I	ompK36	KYVDVGATY	HLA-A*24:02	6XQA	254.0	1.000	0.988	Strong peptide-HLA structural compatibility; peptide fits into HLA-A*24:02 binding groove
+2	MHC-I	phoE	FVDYKINQL	HLA-A*02:01	1HHK	227.0	1.000	0.992	Strong peptide-HLA structural compatibility; peptide fits into HLA-A*02:01 binding groove
+3	MHC-I	ompA	LSLGVSYRF	HLA-A*24:02	6XQA	212.0	1.000	0.984	Good peptide-HLA structural compatibility; peptide fits into HLA-A*24:02 binding groove
+4	MHC-II	ompA	IEVKGYKEVVTQPAA	HLA-DRB1*04:01	5JLZ	137.0	0.914	0.981	Acceptable MHC-II peptide-HLA structural compatibility; peptide accommodated in HLA-DRB1*04:01 binding groove
+5	MHC-II	phoE	MMMGFVASTATQAAE	HLA-DRB1*01:01	1AQD	126.0	0.878	0.969	Acceptable MHC-II peptide-HLA structural compatibility; peptide accommodated in HLA-DRB1*01:01 binding groove
+6	MHC-II	ompK36	SDNFLQSRANGVATY	HLA-DRB1*01:01	1AQD	121.0	0.866	0.969	Acceptable MHC-II peptide-HLA structural compatibility; peptide accommodated in HLA-DRB1*01:01 binding groove

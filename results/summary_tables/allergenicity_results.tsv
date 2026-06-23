@@ -1,0 +1,6 @@
+protein	allertop_prediction	allergenfp_prediction	final_allergenicity_decision
+ompA	Probable non-allergen	Not available	Non-allergen by AllerTOP
+phoE	Probable non-allergen	Not available	Non-allergen by AllerTOP
+yidR	Probable allergen	Not available	Potential allergen by AllerTOP; deprioritize or verify with another allergenicity tool
+mrkA	Probable allergen	Not available	Potential allergen by AllerTOP; deprioritize or verify with another allergenicity tool
+ompK36	Probable non-allergen	Not available	Non-allergen by AllerTOP

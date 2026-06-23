@@ -1,0 +1,6 @@
+protein	vaxijen_score	threshold	model	prediction	decision
+ompA	0.6542	0.4	Bacteria	Antigenic	Antigenic
+phoE	0.7708	0.4	Bacteria	Antigenic	Strong antigenic
+yidR	0.4401	0.4	Bacteria	Antigenic	Weak/borderline antigenic
+mrkA	0.7873	0.4	Bacteria	Antigenic	Strong antigenic
+ompK36	0.7901	0.4	Bacteria	Antigenic	Strong antigenic

@@ -1,0 +1,7 @@
+epitope_type	protein	peptide	hla_receptor	receptor_pdb	model_rank	interaction_similarity_score	estimated_accuracy	tm_score	downloaded_model	interpretation
+MHC-I	phoE	FVDYKINQL	HLA-A*02:01	1HHK	1	227.0	1.000	0.992	galaxypepdock_models/phoE_FVDYKINQL_HLA_A0201_model1.pdb	Strong peptide-HLA structural compatibility; peptide fits into HLA-A*02:01 binding groove
+MHC-I	ompK36	KYVDVGATY	HLA-A*24:02	6XQA	1	254.0	1.000	0.988	galaxypepdock_models/ompK36_KYVDVGATY_HLA_A2402_model1.pdb	Strong peptide-HLA structural compatibility; peptide fits into HLA-A*24:02 binding groove
+MHC-I	ompA	LSLGVSYRF	HLA-A*24:02	6XQA	1	212.0	1.000	0.984	galaxypepdock_models/ompA_LSLGVSYRF_HLA_A2402_model1.pdb	Good peptide-HLA structural compatibility; peptide fits into HLA-A*24:02 binding groove
+MHC-II	ompK36	SDNFLQSRANGVATY	HLA-DRB1*01:01	1AQD	1	121.0	0.866	0.969	galaxypepdock_models/ompK36_SDNFLQSRANGVATY_HLA_DRB10101_model1.pdb	Acceptable MHC-II peptide-HLA structural compatibility; peptide accommodated in HLA-DRB1*01:01 binding groove
+MHC-II	ompA	IEVKGYKEVVTQPAA	HLA-DRB1*04:01	5JLZ	1	137.0	0.914	0.981	galaxypepdock_models/ompA_IEVKGYKEVVTQPAA_HLA_DRB10401_model1.pdb	Acceptable MHC-II peptide-HLA structural compatibility; peptide accommodated in HLA-DRB1*04:01 binding groove
+MHC-II	phoE	MMMGFVASTATQAAE	HLA-DRB1*01:01	1AQD	1	126.0	0.878	0.969	galaxypepdock_models/phoE_MMMGFVASTATQAAE_HLA_DRB10101_model1.pdb	Acceptable MHC-II peptide-HLA structural compatibility; peptide accommodated in HLA-DRB1*01:01 binding groove
